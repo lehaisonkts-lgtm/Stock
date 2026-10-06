@@ -1,0 +1,2 @@
+ticker,state_control_pct,state_controller,state_evidence,theme_score,theme_name,theme_rationale,decline_flag,core_focus_score,governance_score,hidden_asset_score,hidden_asset_book_bn,hidden_asset_market_bn,hidden_asset_evidence,industry_margin_benchmark,notes
+AAA,65,"Ví dụ công ty Nhà nước A","Báo cáo thường niên/CBTT",8,"Ví dụ thiên thời","Nguồn chính sách/ngành",FALSE,8,8,7,1000,2500,"Thuyết minh BCTC trang xx",35,"Dòng mẫu - xóa trước khi dùng"
